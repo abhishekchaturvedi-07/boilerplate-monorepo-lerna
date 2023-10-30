@@ -1,0 +1,9 @@
+{
+  "name": "@codewithac/root",
+  "private": "true",
+  "version": "1.0.1",
+  "devDependencies": {
+    "lerna": "^7.4.1",
+    "@lerna/legacy-package-management": "7.0.2"
+  }
+}
